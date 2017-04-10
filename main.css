@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    font-size: 12px;
+    color: #555559;
+    box-sizing: border-box;
+    padding: 30px;
+    margin: 0;
+}
+
+section { display:block; }
+
+#inputRange label { margin-right:15px;}
+
+#primesOutput {margin-top:30px;}
